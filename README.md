@@ -1,5 +1,5 @@
 # Blog-Website
-# PHP
+# PHP 8.2.15
 # Bootstrap v5.3
 1.  Visitor can read blogs published on the website and register as an Author.
 2.  Implemented Admin Dashboard for website, Authors and Posts related Setting.
